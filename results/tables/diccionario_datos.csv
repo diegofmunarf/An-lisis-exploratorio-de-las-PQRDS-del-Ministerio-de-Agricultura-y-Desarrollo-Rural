@@ -1,0 +1,17 @@
+﻿Indice,Variable,Tipo de dato,Valores faltantes,Porcentaje faltante (%),Valores únicos
+0,No. de Radicado,object,0,0.0,33842
+1,Tipo comunicación,object,0,0.0,1
+2,Clase,object,0,0.0,2
+3,Tipo documento,object,0,0.0,34
+4,Canal de recepción,object,0,0.0,4
+5,Nombre del Peticionario / Remitente,object,2998,8.86,11192
+6,Distribución,object,1466,4.33,2
+7,Dependencia asignada,object,0,0.0,59
+8,Departamento,object,0,0.0,33
+9,Municipio,object,0,0.0,482
+10,No. Radicado de salida,object,16537,48.87,16884
+11,Fecha radicación,datetime64[ns],0,0.0,33805
+12,Identificacion,int64,0,0.0,1
+13,Fecha vencimiento,datetime64[ns],2678,7.91,3764
+14,Fecha Radicado salida,datetime64[ns],16537,48.87,16894
+15,Alerta_fecha_salida,bool,0,0.0,2

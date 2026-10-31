@@ -1,0 +1,12 @@
+﻿Indice,Indicador,Resultado
+0,Número de registros,33842
+1,Número de variables originales,15
+2,Duplicados exactos,0
+3,Radicados vacíos,0
+4,Radicados repetidos,0
+5,Nombres con espacios sobrantes identificados,1557
+6,Faltantes en nombre del peticionario,2998
+7,Faltantes en distribución,1466
+8,Faltantes en fecha de vencimiento,2678
+9,Faltantes en número de radicado de salida,16537
+10,Fechas de salida anteriores a la radicación,97
