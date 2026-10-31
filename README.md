@@ -114,11 +114,14 @@ El proyecto se desarrollará en **Google Colab**. Cuando se complete ACA1:
 | Elemento | Información |
 |---|---|
 | Plataforma | Google Colab |
-| Versión de Python | Pendiente de registrar desde Colab |
-| Librerías y versiones | Ver `requirements.txt` (exportación del entorno de Colab; revisar al finalizar ACA1) |
-| Tipo de máquina | Pendiente de registrar: CPU o GPU |
-| Semilla aleatoria | Pendiente de registrar si se utilizan procedimientos aleatorios |
-| Tiempo de entrenamiento por modelo | No aplica por ahora: el anteproyecto plantea análisis exploratorio, no entrenamiento predictivo |
+| Versión de Python | 3.13.18 |
+| Sistema operativo | Linux |
+| Arquitectura | x86_64 |
+| Librerías y versiones | Ver `requirements.txt`, exportado desde Google Colab |
+| Tipo de máquina | CPU (sin GPU disponible en la sesión) |
+| Semilla aleatoria | No registrada; verificar si se utilizan procedimientos aleatorios |
+| Tiempo de entrenamiento por modelo | No aplica en ACA1: análisis exploratorio y auditoría ETL, sin entrenamiento predictivo |
+| Tiempo de ejecución del análisis | Pendiente de medición |
 
 Si en actividades posteriores se entrena algún modelo, se documentarán su tiempo de entrenamiento, configuración, semilla y métricas verificadas.
 
