@@ -6,6 +6,7 @@ Equipo investigador
 - Stefany Albarracín Borda
 - Diego Fernando Munar Forigua
 - Jhonnatan Javier Rodríguez Sichaca
+- 
 Descripción del proyecto
 La gestión de PQRDS es un mecanismo fundamental de interacción entre la ciudadanía y las entidades públicas. Este proyecto propone aplicar técnicas de análisis exploratorio de datos (EDA) para caracterizar la distribución territorial de las solicitudes, examinar la carga operativa de las dependencias responsables e identificar patrones asociados con los tiempos de respuesta y el cumplimiento de los términos legales.
 
